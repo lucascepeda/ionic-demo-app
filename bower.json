@@ -1,0 +1,27 @@
+{
+  "name": "ionic-demo-app",
+  "version": "0.0.0",
+  "homepage": "http://lucascepeda.com",
+  "authors": [
+    "Lucas Cepeda <lucas.cepeda@gmail.com>"
+  ],
+  "description": "Ionic demo app for rapid prototyping",
+  "dependencies": {
+    "angular": "~1.2.10",
+    "angular-animate": "~1.2.10",
+    "angular-cookies": "~1.2.10",
+    "angular-resource": "~1.2.10",
+    "angular-route": "~1.2.0",
+    "angular-sanitize": "~1.2.10",
+    "angular-ui-router": "~0.2.7",
+    "ionic": "~0.9.23",
+    "ionicons": "~1.4.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.10",
+    "angular-scenario": "~1.2.10"
+  },
+  "resolutions": {
+    "angular": "1.2.10"
+  }
+}
