@@ -3,7 +3,7 @@ ionic-demo-app
 
 ionic-demo-app
 
-# Install npm and bower (only if you don't have them already)
+# Install npm and bower
     brew install node
     npm install -g bower
 
